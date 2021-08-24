@@ -19,9 +19,9 @@ CONFOUND_FN = corr_sg02_anti_sg13 # uncomment this to generate dist'n used for t
 
 ## Using the data
 In our experiments we trained using the file
-`./group_agnostic_fairness/data/uci_adult2/subsample/corr_sg02_anti_sg13/train.csv`
+`./data/adult_conf/corr_sg02_anti_sg13/train.csv`
 and tested using the file
-`./group_agnostic_fairness/data/uci_adult2/subsample/corr_sg13_anti_sg02/test.csv`
+`./data/adult_conf/corr_sg13_anti_sg02/test.csv`
 
 This correponds to a dramatic subgroup-label correlation at train time that is reversed at test time.
 
