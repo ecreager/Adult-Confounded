@@ -27,7 +27,7 @@ This correponds to a dramatic subgroup-label correlation at train time that is r
 
 ## Citing the dataset
 If your research makes use of this dataset, please consider providing the following citation:
-```
+```BibTeX
 @inproceedings{creager21environment,
   title={Environment Inference for Invariant Learning},
   author={Creager, Elliot and Jacobsen, J{\"o}rn-Henrik and Zemel, Richard},
